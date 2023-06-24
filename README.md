@@ -1,8 +1,8 @@
-
+![cat-keyboard](https://github.com/Yaggnc/Yaggnc/assets/129368022/adf551b3-25f4-478f-acae-ada195e62e25)
 
 <!--
 **Yaggnc/Yaggnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![cat-keyboard](https://github.com/Yaggnc/Yaggnc/assets/129368022/adf551b3-25f4-478f-acae-ada195e62e25)
+
 
 Here are some ideas to get you started:
 
